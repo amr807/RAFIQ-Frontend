@@ -11,8 +11,7 @@ performance using operational KPIs.
 - Real-time location tracking for employees
 - KPI dashboards with visual metrics (completion rate, delays, efficiency)
 - WebSocket-based live updates
-- Responsive UI optimized for both desktop and 
-https://github.com/user-attachments/assets/54fba172-d233-4abc-879d-315fb1936a10
+- Responsive UI optimized for desktop 
 
 
 ## Tech Stack
